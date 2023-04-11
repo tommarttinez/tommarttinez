@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on IBM **Telecom**
 
-- 👯 I’m looking to collaborate on personal projects ["Pokedex","Finance Calculator","Movies Project"](https://funny-kashata-607d28.netlify.app , https://transcendent-boba-dae23e.netlify.app , https://lustrous-cocada-544db7.netlify.app)
+- 👯 I’m looking to collaborate on personal projects "Pokedex" (https://funny-kashata-607d28.netlify.app),"Finance Calculator" (https://transcendent-boba-dae23e.netlify.app),"Movies Project" (https://lustrous-cocada-544db7.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

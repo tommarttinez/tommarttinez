@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on IBM **Telecom**
 
+- 📄 I programming in React since 2020, actually in Salesforce with Lightning Web Components, looking for a change
+
 - 👯 I’m looking to collaborate on personal projects "Pokedex" ( 'https://funny-kashata-607d28.netlify.app' ),"Finance Calculator" ( 'https://transcendent-boba-dae23e.netlify.app' ),"Movies Project" ( 'https://lustrous-cocada-544db7.netlify.app' )
 
 <h3 align="left">Connect with me:</h3>
